@@ -1,2 +1,2 @@
 # > Solved AMP 404 in google
-host,cdn.ampproject.org,PROXY
+host-suffix, ampproject.org, PROXY
